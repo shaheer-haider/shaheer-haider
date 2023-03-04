@@ -81,8 +81,8 @@
 <br>
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaheer-haider&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheer-haider">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaheer-haider&show_icons=true&count_private=true&theme=github_dark&hide=issues&line_height=32">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaheer-haider&theme=github_dark">
 </p>
 
 
