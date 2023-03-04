@@ -25,7 +25,7 @@
 <summary><h2><img src="https://slackmojis.com/emojis/45891-work/image/1643509229/work.png" align="center"
                 width="28" /> My Work</h2></summary>
 <div align="center"> 
-  <img style="margin: 10px" src="https://www.automation-consultants.com/wp-content/uploads/2020/02/DevOps-icon.png" alt="DevOps" height="200" />
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/shaheer-haider/shaheer-haider/main/devops-logo-removebg-preview.png" alt="DevOps" height="200" />
 </div>
 <br />
 <br />
