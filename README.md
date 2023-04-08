@@ -12,6 +12,7 @@
  I love to over engineer the technology stacks and cloud architectures.
 </h4>
 <!-- <p align = "center"><a href="https://www.buymeacoffee.com/"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="" /></a></p><br><br> -->
+<br>
 
 <summary><h2><img src="https://slackmojis.com/emojis/10512-amongus/image/1643515022/amongus.png" align="center"
                 width="28" /> What I currently do</h2></summary>
