@@ -4,19 +4,13 @@
  src="https://raw.githubusercontent.com/shaheer-haider/shaheer-haider/main/developer.gif" width="40%"/></p>
 
 
-<p align="center">
- <h4>I'm a DevOps Engineer.
- <br/>
- I specialize in Web-Development and Cloud Based applications.
- <br/>
- I love to over engineer the technology stacks and cloud architectures.
-</h4>
-<!-- <p align = "center"><a href="https://www.buymeacoffee.com/"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="" /></a></p><br><br> -->
-<br>
-
 <summary><h2><img src="https://slackmojis.com/emojis/10512-amongus/image/1643515022/amongus.png" align="center"
-                width="28" /> What I currently do</h2></summary>
+                width="28" />I'm a DevOps Engineer</h2></summary>
 
+- 🌍 Contributing in Opensource
+- 🥷 Web, Mobile, Desktop Apps and Cloud Enginnering
+- ☁️ I specialize in Web-Development and Cloud Based applications
+- 🖤 I love to over engineer the technology stacks and cloud architectures
 - 🔭 I'm modernizing architecture of existing applications.
 - 🌱 I’m currently learning Kubernetes.
 - 💬 Ask me about, Software Development & Cloud or Any tech-related stuff.
