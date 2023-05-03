@@ -1,11 +1,14 @@
-<h1><p align="center">Hello, I'm M Shaheer Haider! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
-
+<h1 align="center">
+  Hello, I'm M Shaheer Haider!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+</h1>
+ 
 <p align="center" ><img 
  src="https://raw.githubusercontent.com/shaheer-haider/shaheer-haider/main/developer.gif" width="40%"/></p>
 
 
 <summary><h2><img src="https://slackmojis.com/emojis/10512-amongus/image/1643515022/amongus.png" align="center"
-                width="28" />I'm a DevOps Engineer</h2></summary>
+                width="28" /> I'm a DevOps Engineer</h2></summary>
 
 - 🌍 Contributing in Opensource
 - 🥷 Web, Mobile, Desktop Apps and Cloud Enginnering
@@ -17,6 +20,15 @@
 
 <br>
 
+<summary><h2>🌍 Opensource Projects and Organization where I have contributed</h2></summary>
+
+| Ogranization/ Project      | Description | Reference |
+| ----------- | ----------- | --------- |
+| [Al Nafi](https://github.com/Al-Nafi) | AWS, Python, Django, Nuxt, Vue, Docker, APIs, Microservices | [Private Repositories](/) |
+| [Chatwoot](https://github.com/chatwoot/chatwoot) | Fixing, Docker, Ruby on Rails | https://github.com/chatwoot/chatwoot/pull/6897 |
+| [Azure SDK for Python](https://github.com/Azure/azure-sdk-for-python/) | Issue, Discussion, Installation Fixes | https://github.com/Azure/azure-sdk-for-python/issues/29805 |
+
+<br> 
 <summary><h2><img src="https://slackmojis.com/emojis/45891-work/image/1643509229/work.png" align="center"
                 width="28" /> My Work</h2></summary>
 <div align="center"> 
