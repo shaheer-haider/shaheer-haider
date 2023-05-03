@@ -22,8 +22,8 @@
 
 <summary><h2>🌍 Opensource Projects and Organization where I have contributed</h2></summary>
 
-| Ogranization/ Project      | Description | Reference |
-| ----------- | ----------- | --------- |
+| Ogranization/ Project     | Stack/ Techonology | Reference |
+| ------------------------- | ------------------ | --------- |
 | [Al Nafi](https://github.com/Al-Nafi) | AWS, Python, Django, Nuxt, Vue, Docker, APIs, Microservices | [Private Repositories](https://github.com/shaheer-haider) |
 | [Chatwoot](https://github.com/chatwoot/chatwoot) | Fixing, Docker, Ruby on Rails | https://github.com/chatwoot/chatwoot/pull/6897 |
 | [Azure SDK for Python](https://github.com/Azure/azure-sdk-for-python/) | Issue, Discussion, Installation Fixes | https://github.com/Azure/azure-sdk-for-python/issues/29805 |
