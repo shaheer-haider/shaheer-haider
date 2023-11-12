@@ -6,10 +6,11 @@
 <p align="center" ><img 
  src="https://raw.githubusercontent.com/shaheer-haider/shaheer-haider/main/developer.gif" width="40%"/></p>
 
-
+[View My Resume](https://github.com/shaheer-haider/shaheer-haider/blob/main/M%20Shaheer%20-%20DevOps%20-%20Resume.pdf)
 <summary><h2><img src="https://slackmojis.com/emojis/10512-amongus/image/1643515022/amongus.png" align="center"
                 width="28" /> I'm a DevOps Engineer</h2></summary>
 
+              
 - 🌍 Contributing in Opensource
 - 🥷 Web, Mobile, Desktop Apps and Cloud Enginnering
 - ☁️ I specialize in Web-Development and Cloud Based applications
